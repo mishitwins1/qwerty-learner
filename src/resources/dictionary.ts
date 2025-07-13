@@ -3,6 +3,17 @@ import { calcChapterCount } from '@/utils'
 
 // 中国考试
 const chinaExam: DictionaryResource[] = [
+    {
+    id: 'tim-test',
+    name: 'Tim-test',
+    description: '飞本地测试',
+    category: '小学',
+    tags: ['小学英语'],
+    url: '/dicts/tim-test.json',
+    length: 6,
+    language: 'en',
+    languageCategory: 'en',
+  },
   {
     id: 'cet4',
     name: 'CET-4',
