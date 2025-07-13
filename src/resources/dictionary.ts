@@ -3,17 +3,6 @@ import { calcChapterCount } from '@/utils'
 
 // 中国考试
 const chinaExam: DictionaryResource[] = [
-    {
-    id: 'tim-test',
-    name: 'Tim-test',
-    description: '飞本地测试',
-    category: '青少年英语',
-    tags: ['通用'],
-    url: '/dicts/tim-test.json',
-    length: 6,
-    language: 'en',
-    languageCategory: 'en',
-  },
   {
     id: 'cet4',
     name: 'CET-4',
@@ -1632,6 +1621,17 @@ const internationalExam: DictionaryResource[] = [
 
 // 青少儿英语
 const childrenEnglish: DictionaryResource[] = [
+  {
+    id: 'tim test',
+    name: 'Timtest',
+    description: '飞本地测试',
+    category: '青少年英语',
+    tags: ['通用'],
+    url: '/dicts/tim-test.json',
+    length: 6,
+    language: 'en',
+    languageCategory: 'en',
+  },
   {
     id: 'gaokao3500',
     name: '高考 3500 词',
