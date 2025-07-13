@@ -1,12 +1,2158 @@
-[  { "name": "file", "trans": ["n. 档案,公文箱,锉刀,[计算机] 文件 vt. 列队行进,归档,申请"] },
+[
   {
-    "name": "command",
-    "trans": [
-      "n.命令，指挥； 司令部，指挥部； [计算机]指令； 控制力 vt.指挥，控制，命令； 命令； 应得，值得 vi.给出命令； 命令，指令 adj.指挥的，根据命令（或要求）而作的"
-    ]
+    "name": "one",
+    "trans": ["num. 一"]
   },
-  { "name": "use", "trans": ["n. 运用,用法,使用权,适用 vt. 使用,利用,对待 vi. 吸毒"] },
-  { "name": "program", "trans": ["n. 节目(单),程序,计划 vt. 规划,拟定计划,制作节目"] },
-  { "name": "line", "trans": ["n. 行,线,航线,场界,皱纹,家族 vt. &vi. 用做衬里,排成一行,顺...排列 vi. 排成一行,顺...排列,划线于"] },
-  { "name": "if", "trans": ["conj. 如果，是否，即使 n. 条件,设想"] }
+  {
+    "name": "two",
+    "trans": ["num. 二"]
+  },
+  {
+    "name": "three",
+    "trans": ["num. 三"]
+  },
+  {
+    "name": "four",
+    "trans": ["num. 四"]
+  },
+  {
+    "name": "five",
+    "trans": ["num. 五"]
+  },
+  {
+    "name": "six",
+    "trans": ["num. 六"]
+  },
+  {
+    "name": "seven",
+    "trans": ["num. 七"]
+  },
+  {
+    "name": "eight",
+    "trans": ["num. 八"]
+  },
+  {
+    "name": "nine",
+    "trans": ["num. 九"]
+  },
+  {
+    "name": "ten",
+    "trans": ["num. 十"]
+  },
+  {
+    "name": "children",
+    "trans": ["n. 孩子们（child的复数形式）"]
+  },
+  {
+    "name": "Hello",
+    "trans": ["int. 喂，你好"]
+  },
+  {
+    "name": "What’s",
+    "trans": ["phr. 是什么（What is的缩写）"]
+  },
+  {
+    "name": "your",
+    "trans": ["det. & adj. 你的，你们的"]
+  },
+  {
+    "name": "name",
+    "trans": ["n. 名字"]
+  },
+  {
+    "name": "How old",
+    "trans": ["expr. …多大了"]
+  },
+  {
+    "name": "How are you",
+    "trans": ["phr. 你好吗"]
+  },
+  {
+    "name": "I’m fine",
+    "trans": ["phr. 我很好"]
+  },
+  {
+    "name": "fine",
+    "trans": ["adj. 好的，健康的"]
+  },
+  {
+    "name": "thanks",
+    "trans": ["int. 谢谢"]
+  },
+  {
+    "name": "too",
+    "trans": ["adv. 也，太"]
+  },
+  {
+    "name": "my",
+    "trans": ["det. & adj. 我的"]
+  },
+  {
+    "name": "black",
+    "trans": ["adj. 黑色的"]
+  },
+  {
+    "name": "blue",
+    "trans": ["adj. 蓝色的"]
+  },
+  {
+    "name": "brown",
+    "trans": ["adj. 棕色的"]
+  },
+  {
+    "name": "green",
+    "trans": ["adj. 绿色的"]
+  },
+  {
+    "name": "orange",
+    "trans": ["adj. 橙色的"]
+  },
+  {
+    "name": "purple",
+    "trans": ["adj. 紫色的"]
+  },
+  {
+    "name": "red",
+    "trans": ["adj. 红色的"]
+  },
+  {
+    "name": "white",
+    "trans": ["adj. 白色的"]
+  },
+  {
+    "name": "yellow",
+    "trans": ["adj. 黄色的"]
+  },
+  {
+    "name": "big",
+    "trans": ["adj. 大的"]
+  },
+  {
+    "name": "small",
+    "trans": ["adj. 小的"]
+  },
+  {
+    "name": "thing",
+    "trans": ["n. 东西，事物"]
+  },
+  {
+    "name": "for",
+    "trans": ["prep. 为了，给"]
+  },
+  {
+    "name": "school",
+    "trans": ["n. 学校"]
+  },
+  {
+    "name": "girl",
+    "trans": ["n. 女孩"]
+  },
+  {
+    "name": "paint",
+    "trans": ["v. 绘画；n. 颜料；painter n. 画家；painting n. 绘画作品"]
+  },
+  {
+    "name": "photo",
+    "trans": ["n. 照片；photograph n. 照片；photographer n. 摄影师；photography n. 摄影"]
+  },
+  {
+    "name": "Can you see …",
+    "trans": ["phr. 你能看见……吗"]
+  },
+  {
+    "name": "bag",
+    "trans": ["n. 书包，袋子"]
+  },
+  {
+    "name": "book",
+    "trans": ["n. 书"]
+  },
+  {
+    "name": "crayon",
+    "trans": ["n. 蜡笔"]
+  },
+  {
+    "name": "pen",
+    "trans": ["n. 钢笔"]
+  },
+  {
+    "name": "pencil",
+    "trans": ["n. 铅笔"]
+  },
+  {
+    "name": "pencil case",
+    "trans": ["n. 铅笔盒"]
+  },
+  {
+    "name": "poster",
+    "trans": ["n. 海报"]
+  },
+  {
+    "name": "rubber",
+    "trans": ["n. 橡皮；rub v. 擦；rubber adj. 橡胶的"]
+  },
+  {
+    "name": "ruler",
+    "trans": ["n. 尺子"]
+  },
+  {
+    "name": "What’s this",
+    "trans": ["phr. 这是什么"]
+  },
+  {
+    "name": "Take a look",
+    "trans": ["phr. 看一看"]
+  },
+  {
+    "name": "look",
+    "trans": ["v. 看；n. 看，样子"]
+  },
+  {
+    "name": "it’s",
+    "trans": ["phr. 它是（it is的缩写）"]
+  },
+  {
+    "name": "again",
+    "trans": ["adv. 再一次，又"]
+  },
+  {
+    "name": "room",
+    "trans": ["n. 房间"]
+  },
+  {
+    "name": "classroom",
+    "trans": ["n. 教室"]
+  },
+  {
+    "name": "board",
+    "trans": ["n. 板，黑板"]
+  },
+  {
+    "name": "chair",
+    "trans": ["n. 椅子"]
+  },
+  {
+    "name": "desk",
+    "trans": ["n. 书桌"]
+  },
+  {
+    "name": "I can see …",
+    "trans": ["phr. 我能看见……"]
+  },
+  {
+    "name": "Is it …",
+    "trans": ["phr. 它是……吗"]
+  },
+  {
+    "name": "Yes, it is",
+    "trans": ["phr. 是的，它是"]
+  },
+  {
+    "name": "No, it isn’t",
+    "trans": ["phr. 不，它不是"]
+  },
+  {
+    "name": "yes",
+    "trans": ["int. 是的"]
+  },
+  {
+    "name": "no",
+    "trans": ["int. 不"]
+  },
+  {
+    "name": "bus",
+    "trans": ["n. 公共汽车"]
+  },
+  {
+    "name": "cat",
+    "trans": ["n. 猫"]
+  },
+  {
+    "name": "really",
+    "trans": ["adv. 真正地；real adj. 真实的"]
+  },
+  {
+    "name": "cool",
+    "trans": ["adj. 酷的，凉爽的"]
+  },
+  {
+    "name": "look after",
+    "trans": ["phr v. 照顾，照料"]
+  },
+  {
+    "name": "Who",
+    "trans": ["pron. 谁"]
+  },
+  {
+    "name": "apple",
+    "trans": ["n. 苹果"]
+  },
+  {
+    "name": "carrot",
+    "trans": ["n. 胡萝卜"]
+  },
+  {
+    "name": "number",
+    "trans": ["n. 数字；v. 编号"]
+  },
+  {
+    "name": "Hi",
+    "trans": ["int. 嗨，你好"]
+  },
+  {
+    "name": "that’s right",
+    "trans": ["phr. 那是对的"]
+  },
+  {
+    "name": "What else …",
+    "trans": ["phr. 还有什么……"]
+  },
+  {
+    "name": "Let’s …",
+    "trans": ["phr. 让我们……（Let us的缩写）"]
+  },
+  {
+    "name": "toy",
+    "trans": ["n. 玩具"]
+  },
+  {
+    "name": "toy shop",
+    "trans": ["n. 玩具店"]
+  },
+  {
+    "name": "ball",
+    "trans": ["n. 球"]
+  },
+  {
+    "name": "bat",
+    "trans": ["n. 球棒，蝙蝠"]
+  },
+  {
+    "name": "doll",
+    "trans": ["n. 洋娃娃"]
+  },
+  {
+    "name": "game",
+    "trans": ["n. 游戏"]
+  },
+  {
+    "name": "kite",
+    "trans": ["n. 风筝"]
+  },
+  {
+    "name": "plane",
+    "trans": ["n. 飞机"]
+  },
+  {
+    "name": "teddy",
+    "trans": ["n. 泰迪熊"]
+  },
+  {
+    "name": "train",
+    "trans": ["n. 火车"]
+  },
+  {
+    "name": "This is …",
+    "trans": ["phr. 这是……"]
+  },
+  {
+    "name": "and",
+    "trans": ["conj. 和，并且"]
+  },
+  {
+    "name": "marble",
+    "trans": ["n. 弹珠"]
+  },
+  {
+    "name": "favourite",
+    "trans": ["adj. 最喜欢的；n. 最喜欢的人或物"]
+  },
+  {
+    "name": "fun",
+    "trans": ["adj. 有趣的；n. 乐趣；funny adj. 滑稽的，有趣的"]
+  },
+  {
+    "name": "find",
+    "trans": ["v. 找到，发现"]
+  },
+  {
+    "name": "colour",
+    "trans": ["n. 颜色；colourful adj. 彩色的；v. 给……涂色"]
+  },
+  {
+    "name": "Is this your …",
+    "trans": ["phr. 这是你的……吗"]
+  },
+  {
+    "name": "play",
+    "trans": ["v. 玩，演奏；player n. 运动员，演奏者"]
+  },
+  {
+    "name": "share",
+    "trans": ["v. 分享；n. 份额"]
+  },
+  {
+    "name": "elephant",
+    "trans": ["n. 大象"]
+  },
+  {
+    "name": "fish",
+    "trans": ["n. 鱼；v. 钓鱼；fishing n. 钓鱼"]
+  },
+  {
+    "name": "goat",
+    "trans": ["n. 山羊"]
+  },
+  {
+    "name": "horse",
+    "trans": ["n. 马"]
+  },
+  {
+    "name": "Is that …",
+    "trans": ["phr. 那是……吗"]
+  },
+  {
+    "name": "thank you",
+    "trans": ["int. 谢谢你"]
+  },
+  {
+    "name": "show",
+    "trans": ["v. 展示；n. 演出，展览"]
+  },
+  {
+    "name": "me",
+    "trans": ["pron. 我（宾格）"]
+  },
+  {
+    "name": "teddy bear",
+    "trans": ["n. 泰迪熊"]
+  },
+  {
+    "name": "its",
+    "trans": ["det. 它的；it pron. 它"]
+  },
+  {
+    "name": "cute",
+    "trans": ["adj. 可爱的"]
+  },
+  {
+    "name": "real",
+    "trans": ["adj. 真实的；really adv. 真正地"]
+  },
+  {
+    "name": "open",
+    "trans": ["v. 打开；adj. 开着的"]
+  },
+  {
+    "name": "close",
+    "trans": ["v. 关闭；closed adj. 关着的"]
+  },
+  {
+    "name": "stand up",
+    "trans": ["phr v. 站起来"]
+  },
+  {
+    "name": "come in",
+    "trans": ["phr. 进来"]
+  },
+  {
+    "name": "put your hand up",
+    "trans": ["expr. 举手"]
+  },
+  {
+    "name": "sit down",
+    "trans": ["phr v. 坐下"]
+  },
+  {
+    "name": "please",
+    "trans": ["int. 请"]
+  },
+  {
+    "name": "knock",
+    "trans": ["v. 敲；n. 敲击声"]
+  },
+  {
+    "name": "read",
+    "trans": ["v. 读；reading n. 阅读"]
+  },
+  {
+    "name": "boy",
+    "trans": ["n. 男孩"]
+  },
+  {
+    "name": "English",
+    "trans": ["adj. 英语的，英国的；n. 英语，英国人"]
+  },
+  {
+    "name": "be quiet",
+    "trans": ["expr. 安静点"]
+  },
+  {
+    "name": "Goodbye",
+    "trans": ["int. 再见"]
+  },
+  {
+    "name": "go",
+    "trans": ["v. 去"]
+  },
+  {
+    "name": "home",
+    "trans": ["n. 家"]
+  },
+  {
+    "name": "trip",
+    "trans": ["n. 旅行"]
+  },
+  {
+    "name": "museum",
+    "trans": ["n. 博物馆"]
+  },
+  {
+    "name": "pink",
+    "trans": ["adj. 粉红色的"]
+  },
+  {
+    "name": "new",
+    "trans": ["adj. 新的"]
+  },
+  {
+    "name": "old",
+    "trans": ["adj. 旧的，老的"]
+  },
+  {
+    "name": "outside",
+    "trans": ["adv. 在外面"]
+  },
+  {
+    "name": "place",
+    "trans": ["n. 地方"]
+  },
+  {
+    "name": "lots of",
+    "trans": ["det. 许多"]
+  },
+  {
+    "name": "people",
+    "trans": ["n. 人们（复数）；person n. 人（单数）"]
+  },
+  {
+    "name": "sign",
+    "trans": ["n. 标志"]
+  },
+  {
+    "name": "car",
+    "trans": ["n. 汽车"]
+  },
+  {
+    "name": "make",
+    "trans": ["v. 制作，做"]
+  },
+  {
+    "name": "paper",
+    "trans": ["n. 纸"]
+  },
+  {
+    "name": "run",
+    "trans": ["v. 跑；n. 跑步；runner n. 跑步者；running n. 跑步"]
+  },
+  {
+    "name": "student",
+    "trans": ["n. 学生；study v. 学习"]
+  },
+  {
+    "name": "classmate",
+    "trans": ["n. 同班同学"]
+  },
+  {
+    "name": "friend",
+    "trans": ["n. 朋友；friendly adj. 友好的"]
+  },
+  {
+    "name": "teacher",
+    "trans": ["n. 老师；teach v. 教"]
+  },
+  {
+    "name": "man",
+    "trans": ["n. 男人；men n. 男人们（复数）"]
+  },
+  {
+    "name": "woman",
+    "trans": ["n. 女人；women n. 女人们（复数）"]
+  },
+  {
+    "name": "Who’s this",
+    "trans": ["phr. 这是谁"]
+  },
+  {
+    "name": "he’s",
+    "trans": ["phr. 他是（he is的缩写）"]
+  },
+  {
+    "name": "she’s",
+    "trans": ["phr. 她是（she is的缩写）"]
+  },
+  {
+    "name": "dinosaur",
+    "trans": ["n. 恐龙"]
+  },
+  {
+    "name": "Is he …",
+    "trans": ["phr. 他是……吗"]
+  },
+  {
+    "name": "Yes, he is",
+    "trans": ["phr. 是的，他是"]
+  },
+  {
+    "name": "No, he isn’t",
+    "trans": ["phr. 不，他不是"]
+  },
+  {
+    "name": "Is she …",
+    "trans": ["phr. 她是……吗"]
+  },
+  {
+    "name": "Yes, she is",
+    "trans": ["phr. 是的，她是"]
+  },
+  {
+    "name": "No, she isn’t",
+    "trans": ["phr. 不，她不是"]
+  },
+  {
+    "name": "brother",
+    "trans": ["n. 兄弟"]
+  },
+  {
+    "name": "sister",
+    "trans": ["n. 姐妹"]
+  },
+  {
+    "name": "best friend",
+    "trans": ["n. 最好的朋友"]
+  },
+  {
+    "name": "make friends",
+    "trans": ["expr. 交朋友"]
+  },
+  {
+    "name": "at school",
+    "trans": ["phr. 在学校"]
+  },
+  {
+    "name": "insect",
+    "trans": ["n. 昆虫"]
+  },
+  {
+    "name": "jellyfish",
+    "trans": ["n. 水母"]
+  },
+  {
+    "name": "kiwi",
+    "trans": ["n. 猕猴桃，几维鸟"]
+  },
+  {
+    "name": "lamp",
+    "trans": ["n. 灯"]
+  },
+  {
+    "name": "Who’s that",
+    "trans": ["phr. 那是谁"]
+  },
+  {
+    "name": "Italian",
+    "trans": ["adj. 意大利的；n. 意大利人，意大利语"]
+  },
+  {
+    "name": "painting",
+    "trans": ["n. 绘画作品"]
+  },
+  {
+    "name": "Do you know …",
+    "trans": ["v. 你知道……吗"]
+  },
+  {
+    "name": "know",
+    "trans": ["v. 知道，了解"]
+  },
+  {
+    "name": "be called",
+    "trans": ["v. 被叫做"]
+  },
+  {
+    "name": "smile",
+    "trans": ["v. 微笑"]
+  },
+  {
+    "name": "has got",
+    "trans": ["v. 有（have got的第三人称单数形式）"]
+  },
+  {
+    "name": "like",
+    "trans": ["v. 喜欢"]
+  },
+  {
+    "name": "Very good",
+    "trans": ["int. 非常好"]
+  },
+  {
+    "name": "Chinese",
+    "trans": ["adj. 中国的；n. 中国人，汉语"]
+  },
+  {
+    "name": "drawing",
+    "trans": ["n. 绘画；draw v. 画"]
+  },
+  {
+    "name": "tell",
+    "trans": ["v. 告诉"]
+  },
+  {
+    "name": "about",
+    "trans": ["prep. 关于"]
+  },
+  {
+    "name": "picture",
+    "trans": ["n. 图画，照片"]
+  },
+  {
+    "name": "any",
+    "trans": ["det. 任何，一些"]
+  },
+  {
+    "name": "other",
+    "trans": ["det., adj. & pron. 其他的，另外的"]
+  },
+  {
+    "name": "Brazilian",
+    "trans": ["adj. 巴西的；n. 巴西人"]
+  },
+  {
+    "name": "baby",
+    "trans": ["n. 婴儿"]
+  },
+  {
+    "name": "family",
+    "trans": ["n. 家庭"]
+  },
+  {
+    "name": "grandma",
+    "trans": ["n. 奶奶，外婆"]
+  },
+  {
+    "name": "grandpa",
+    "trans": ["n. 爷爷，外公"]
+  },
+  {
+    "name": "dad",
+    "trans": ["n. 爸爸"]
+  },
+  {
+    "name": "mum",
+    "trans": ["n. 妈妈"]
+  },
+  {
+    "name": "uncle",
+    "trans": ["n. 叔叔，舅舅，姑父等"]
+  },
+  {
+    "name": "aunt",
+    "trans": ["n. 阿姨，姑姑，婶婶等"]
+  },
+  {
+    "name": "cousin",
+    "trans": ["n. 堂（表）兄弟姐妹"]
+  },
+  {
+    "name": "I’ve got",
+    "trans": ["phr. 我有（I have got的缩写）"]
+  },
+  {
+    "name": "I haven’t got",
+    "trans": ["phr. 我没有（I have not got的缩写）"]
+  },
+  {
+    "name": "What about …",
+    "trans": ["phr. …怎么样"]
+  },
+  {
+    "name": "middle",
+    "trans": ["n. 中间"]
+  },
+  {
+    "name": "birthday",
+    "trans": ["n. 生日"]
+  },
+  {
+    "name": "birthday party",
+    "trans": ["n. 生日派对"]
+  },
+  {
+    "name": "birthday cake",
+    "trans": ["n. 生日蛋糕"]
+  },
+  {
+    "name": "count",
+    "trans": ["v. 数数"]
+  },
+  {
+    "name": "today",
+    "trans": ["adv. 今天"]
+  },
+  {
+    "name": "class",
+    "trans": ["n. 班级"]
+  },
+  {
+    "name": "his",
+    "trans": ["det. 他的"]
+  },
+  {
+    "name": "her",
+    "trans": ["det. 她的；pron. 她（宾格）"]
+  },
+  {
+    "name": "give",
+    "trans": ["v. 给"]
+  },
+  {
+    "name": "monkey",
+    "trans": ["n. 猴子"]
+  },
+  {
+    "name": "tree",
+    "trans": ["n. 树"]
+  },
+  {
+    "name": "nose",
+    "trans": ["n. 鼻子"]
+  },
+  {
+    "name": "orange",
+    "trans": ["n. 橙子"]
+  },
+  {
+    "name": "cartoon",
+    "trans": ["n. 卡通片"]
+  },
+  {
+    "name": "only",
+    "trans": ["adv. 仅仅，只"]
+  },
+  {
+    "name": "dog",
+    "trans": ["n. 狗"]
+  },
+  {
+    "name": "now",
+    "trans": ["adv. 现在"]
+  },
+  {
+    "name": "difference",
+    "trans": ["n. 不同；different adj. 不同的"]
+  },
+  {
+    "name": "window",
+    "trans": ["n. 窗户"]
+  },
+  {
+    "name": "sky",
+    "trans": ["n. 天空"]
+  },
+  {
+    "name": "sun",
+    "trans": ["n. 太阳"]
+  },
+  {
+    "name": "day",
+    "trans": ["n. 白天，一天"]
+  },
+  {
+    "name": "light",
+    "trans": ["adj. 轻的，明亮的"]
+  },
+  {
+    "name": "hedgehog",
+    "trans": ["n. 刺猬"]
+  },
+  {
+    "name": "sleep",
+    "trans": ["v. 睡觉"]
+  },
+  {
+    "name": "moon",
+    "trans": ["n. 月亮"]
+  },
+  {
+    "name": "dark",
+    "trans": ["adj. 黑暗的；n. 黑暗；darkness n. 黑暗"]
+  },
+  {
+    "name": "night",
+    "trans": ["n. 夜晚"]
+  },
+  {
+    "name": "bed",
+    "trans": ["n. 床"]
+  },
+  {
+    "name": "in bed",
+    "trans": ["phr. 在床上"]
+  },
+  {
+    "name": "garden",
+    "trans": ["n. 花园"]
+  },
+  {
+    "name": "body",
+    "trans": ["n. 身体"]
+  },
+  {
+    "name": "colourful",
+    "trans": ["adj. 彩色的"]
+  },
+  {
+    "name": "hand",
+    "trans": ["n. 手"]
+  },
+  {
+    "name": "leg",
+    "trans": ["n. 腿"]
+  },
+  {
+    "name": "foot",
+    "trans": ["n. 脚；feet n. 脚（复数）"]
+  },
+  {
+    "name": "mouth",
+    "trans": ["n. 嘴"]
+  },
+  {
+    "name": "eye",
+    "trans": ["n. 眼睛"]
+  },
+  {
+    "name": "head",
+    "trans": ["n. 头"]
+  },
+  {
+    "name": "ear",
+    "trans": ["n. 耳朵"]
+  },
+  {
+    "name": "arm",
+    "trans": ["n. 胳膊"]
+  },
+  {
+    "name": "these are",
+    "trans": ["phr. 这些是"]
+  },
+  {
+    "name": "skeleton",
+    "trans": ["n. 骨骼"]
+  },
+  {
+    "name": "hair",
+    "trans": ["n. 头发；hairy adj. 多毛的"]
+  },
+  {
+    "name": "face",
+    "trans": ["n. 脸"]
+  },
+  {
+    "name": "he’s got",
+    "trans": ["phr. 他有（he has got的缩写）"]
+  },
+  {
+    "name": "he hasn’t got",
+    "trans": ["phr. 他没有（he has not got的缩写）"]
+  },
+  {
+    "name": "paint",
+    "trans": ["n. 颜料；v. 绘画；painting n. 绘画作品"]
+  },
+  {
+    "name": "she’s got",
+    "trans": ["phr. 她有（she has got的缩写）"]
+  },
+  {
+    "name": "she hasn’t got",
+    "trans": ["phr. 她没有（she has not got的缩写）"]
+  },
+  {
+    "name": "she has",
+    "trans": ["phr. 她有"]
+  },
+  {
+    "name": "she doesn’t have",
+    "trans": ["phr. 她没有"]
+  },
+  {
+    "name": "finger",
+    "trans": ["n. 手指"]
+  },
+  {
+    "name": "point",
+    "trans": ["v. 指；n. 要点"]
+  },
+  {
+    "name": "toe",
+    "trans": ["n. 脚趾"]
+  },
+  {
+    "name": "wave",
+    "trans": ["v. 挥手；n. 波浪"]
+  },
+  {
+    "name": "round and round",
+    "trans": ["expr. 一圈又一圈"]
+  },
+  {
+    "name": "nod",
+    "trans": ["v. 点头；n. 点头"]
+  },
+  {
+    "name": "up",
+    "trans": ["prep. 向上"]
+  },
+  {
+    "name": "down",
+    "trans": ["prep. 向下"]
+  },
+  {
+    "name": "stamp",
+    "trans": ["v. 跺脚"]
+  },
+  {
+    "name": "jump",
+    "trans": ["v. 跳；n. 跳跃"]
+  },
+  {
+    "name": "in the air",
+    "trans": ["expr. 在空中"]
+  },
+  {
+    "name": "air",
+    "trans": ["n. 空气"]
+  },
+  {
+    "name": "with",
+    "trans": ["prep. 和……一起，用"]
+  },
+  {
+    "name": "keep",
+    "trans": ["v. 保持"]
+  },
+  {
+    "name": "fit",
+    "trans": ["adj. 健康的，合适的"]
+  },
+  {
+    "name": "queen",
+    "trans": ["n. 女王，王后"]
+  },
+  {
+    "name": "sofa",
+    "trans": ["n. 沙发"]
+  },
+  {
+    "name": "table",
+    "trans": ["n. 桌子"]
+  },
+  {
+    "name": "umbrella",
+    "trans": ["n. 雨伞"]
+  },
+  {
+    "name": "they’re",
+    "trans": ["phr. 他们是，她们是，它们是（they are的缩写）"]
+  },
+  {
+    "name": "festival",
+    "trans": ["n. 节日"]
+  },
+  {
+    "name": "flower",
+    "trans": ["n. 花"]
+  },
+  {
+    "name": "Carnival",
+    "trans": ["n. 狂欢节"]
+  },
+  {
+    "name": "they aren’t",
+    "trans": ["phr. 他们不是，她们不是，它们不是（they are not的缩写）"]
+  },
+  {
+    "name": "dragon",
+    "trans": ["n. 龙"]
+  },
+  {
+    "name": "something",
+    "trans": ["pron. 某事，某物"]
+  },
+  {
+    "name": "mask",
+    "trans": ["n. 面具"]
+  },
+  {
+    "name": "under",
+    "trans": ["prep. 在……下面"]
+  },
+  {
+    "name": "tree house",
+    "trans": ["n. 树屋"]
+  },
+  {
+    "name": "bathroom",
+    "trans": ["n. 浴室"]
+  },
+  {
+    "name": "bedroom",
+    "trans": ["n. 卧室"]
+  },
+  {
+    "name": "kitchen",
+    "trans": ["n. 厨房"]
+  },
+  {
+    "name": "living room",
+    "trans": ["n. 客厅"]
+  },
+  {
+    "name": "cupboard",
+    "trans": ["n. 橱柜"]
+  },
+  {
+    "name": "shower",
+    "trans": ["n. 淋浴"]
+  },
+  {
+    "name": "TV",
+    "trans": ["n. 电视"]
+  },
+  {
+    "name": "Where’s …",
+    "trans": ["phr. …在哪里（Where is的缩写）"]
+  },
+  {
+    "name": "Where …",
+    "trans": ["adv. …在哪里"]
+  },
+  {
+    "name": "in",
+    "trans": ["prep. 在……里面"]
+  },
+  {
+    "name": "on",
+    "trans": ["prep. 在……上面"]
+  },
+  {
+    "name": "sit",
+    "trans": ["v. 坐"]
+  },
+  {
+    "name": "house",
+    "trans": ["n. 房子"]
+  },
+  {
+    "name": "clock",
+    "trans": ["n. 钟"]
+  },
+  {
+    "name": "water",
+    "trans": ["n. 水"]
+  },
+  {
+    "name": "aquarium",
+    "trans": ["n. 水族馆"]
+  },
+  {
+    "name": "next to",
+    "trans": ["prep. 在……旁边"]
+  },
+  {
+    "name": "under",
+    "trans": ["prep. 在……下面"]
+  },
+  {
+    "name": "turn",
+    "trans": ["v. 转动，转向"]
+  },
+  {
+    "name": "wall",
+    "trans": ["n. 墙"]
+  },
+  {
+    "name": "then",
+    "trans": ["adv. 然后"]
+  },
+  {
+    "name": "call",
+    "trans": ["v. 叫，打电话"]
+  },
+  {
+    "name": "come",
+    "trans": ["v. 来"]
+  },
+  {
+    "name": "ready",
+    "trans": ["adj. 准备好的"]
+  },
+  {
+    "name": "or",
+    "trans": ["conj. 或者"]
+  },
+  {
+    "name": "hall",
+    "trans": ["n. 大厅"]
+  },
+  {
+    "name": "their",
+    "trans": ["det. 他们的，她们的，它们的"]
+  },
+  {
+    "name": "violin",
+    "trans": ["n. 小提琴"]
+  },
+  {
+    "name": "box",
+    "trans": ["n. 盒子"]
+  },
+  {
+    "name": "yoghurt",
+    "trans": ["n. 酸奶"]
+  },
+  {
+    "name": "zebra",
+    "trans": ["n. 斑马"]
+  },
+  {
+    "name": "Wow",
+    "trans": ["int. 哇"]
+  },
+  {
+    "name": "balcony",
+    "trans": ["n. 阳台"]
+  },
+  {
+    "name": "like",
+    "trans": ["prep. 像……一样"]
+  },
+  {
+    "name": "such",
+    "trans": ["det. 如此的，这样的"]
+  },
+  {
+    "name": "go in",
+    "trans": ["phr v. 进去"]
+  },
+  {
+    "name": "this (big)",
+    "trans": ["adv. 这么（大）"]
+  },
+  {
+    "name": "work",
+    "trans": ["v. 工作；n. 工作；worker n. 工人"]
+  },
+  {
+    "name": "together",
+    "trans": ["adv. 一起"]
+  },
+  {
+    "name": "take turns",
+    "trans": ["phr. 轮流"]
+  },
+  {
+    "name": "first",
+    "trans": ["adv. 首先；adj., det. & n. 第一（的）"]
+  },
+  {
+    "name": "turn",
+    "trans": ["n. 轮流"]
+  },
+  {
+    "name": "borrow",
+    "trans": ["v. 借"]
+  },
+  {
+    "name": "pass",
+    "trans": ["v. 传递"]
+  },
+  {
+    "name": "here",
+    "trans": ["adv. 这里"]
+  },
+  {
+    "name": "sorry",
+    "trans": ["int. 对不起；adj. 抱歉的"]
+  },
+  {
+    "name": "exercise",
+    "trans": ["n. 练习"]
+  },
+  {
+    "name": "write",
+    "trans": ["v. 写"]
+  },
+  {
+    "name": "answer",
+    "trans": ["n. 答案；v. 回答"]
+  },
+  {
+    "name": "Oh, no",
+    "trans": ["int. 哦，不"]
+  },
+  {
+    "name": "correct",
+    "trans": ["adj. 正确的"]
+  },
+  {
+    "name": "page",
+    "trans": ["n. 页"]
+  },
+  {
+    "name": "animal",
+    "trans": ["n. 动物"]
+  },
+  {
+    "name": "savanna",
+    "trans": ["n. 热带草原"]
+  },
+  {
+    "name": "lion",
+    "trans": ["n. 狮子"]
+  },
+  {
+    "name": "long",
+    "trans": ["adj. 长的"]
+  },
+  {
+    "name": "tail",
+    "trans": ["n. 尾巴"]
+  },
+  {
+    "name": "another",
+    "trans": ["det. 另一个；pron. 另一个"]
+  },
+  {
+    "name": "cub",
+    "trans": ["n. 幼兽"]
+  },
+  {
+    "name": "meerkat",
+    "trans": ["n. 猫鼬"]
+  },
+  {
+    "name": "funny",
+    "trans": ["adj. 滑稽的，有趣的；fun n. & adj. 乐趣，有趣的"]
+  },
+  {
+    "name": "stand",
+    "trans": ["v. 站立"]
+  },
+  {
+    "name": "video",
+    "trans": ["n. 视频"]
+  },
+  {
+    "name": "town",
+    "trans": ["n. 城镇"]
+  },
+  {
+    "name": "library",
+    "trans": ["n. 图书馆"]
+  },
+  {
+    "name": "park",
+    "trans": ["n. 公园"]
+  },
+  {
+    "name": "playground",
+    "trans": ["n. 操场"]
+  },
+  {
+    "name": "shop",
+    "trans": ["n. 商店；v. 购物"]
+  },
+  {
+    "name": "street",
+    "trans": ["n. 街道"]
+  },
+  {
+    "name": "swimming pool",
+    "trans": ["n. 游泳池"]
+  },
+  {
+    "name": "town centre",
+    "trans": ["n. 市中心"]
+  },
+  {
+    "name": "zoo",
+    "trans": ["n. 动物园"]
+  },
+  {
+    "name": "there’s",
+    "trans": ["phr. 有（there is的缩写）"]
+  },
+  {
+    "name": "real",
+    "trans": ["adj. 真实的；really adv. 真正地"]
+  },
+  {
+    "name": "model",
+    "trans": ["n. 模型"]
+  },
+  {
+    "name": "tiny",
+    "trans": ["adj. 极小的"]
+  },
+  {
+    "name": "flower",
+    "trans": ["n. 花"]
+  },
+  {
+    "name": "there are",
+    "trans": ["phr. 有（there are的缩写）"]
+  },
+  {
+    "name": "look around",
+    "trans": ["phr v. 环顾四周"]
+  },
+  {
+    "name": "path",
+    "trans": ["n. 小路"]
+  },
+  {
+    "name": "fence",
+    "trans": ["n. 栅栏"]
+  },
+  {
+    "name": "love",
+    "trans": ["v. 爱；n. 爱"]
+  },
+  {
+    "name": "jam",
+    "trans": ["n. 果酱"]
+  },
+  {
+    "name": "map",
+    "trans": ["n. 地图"]
+  },
+  {
+    "name": "city",
+    "trans": ["n. 城市"]
+  },
+  {
+    "name": "Statue of Liberty",
+    "trans": ["n. 自由女神像"]
+  },
+  {
+    "name": "Yeah",
+    "trans": ["int. 是的，好的"]
+  },
+  {
+    "name": "a lot of",
+    "trans": ["det. 许多"]
+  },
+  {
+    "name": "beautiful",
+    "trans": ["adj. 美丽的"]
+  },
+  {
+    "name": "Aegean Sea",
+    "trans": ["n. 爱琴海"]
+  },
+  {
+    "name": "so",
+    "trans": ["adv. 如此，那么；conj. 所以"]
+  },
+  {
+    "name": "many",
+    "trans": ["det. 许多"]
+  },
+  {
+    "name": "though",
+    "trans": ["adv. 不过；conj. 虽然"]
+  },
+  {
+    "name": "on holiday",
+    "trans": ["phr. 在度假"]
+  },
+  {
+    "name": "special",
+    "trans": ["adj. 特别的"]
+  },
+  {
+    "name": "Are there …",
+    "trans": ["phr. 有……吗"]
+  },
+  {
+    "name": "art",
+    "trans": ["n. 艺术"]
+  },
+  {
+    "name": "listen",
+    "trans": ["v. 听"]
+  },
+  {
+    "name": "music",
+    "trans": ["n. 音乐；musical adj. 音乐的；musician n. 音乐家"]
+  },
+  {
+    "name": "farm",
+    "trans": ["n. 农场；farmer n. 农民；farming n. 农业；v. 耕种"]
+  },
+  {
+    "name": "sheep",
+    "trans": ["n. 绵羊（单复数同形）"]
+  },
+  {
+    "name": "bee",
+    "trans": ["n. 蜜蜂"]
+  },
+  {
+    "name": "bird",
+    "trans": ["n. 鸟"]
+  },
+  {
+    "name": "chicken",
+    "trans": ["n. 鸡，鸡肉"]
+  },
+  {
+    "name": "cow",
+    "trans": ["n. 奶牛"]
+  },
+  {
+    "name": "dog",
+    "trans": ["n. 狗"]
+  },
+  {
+    "name": "donkey",
+    "trans": ["n. 驴"]
+  },
+  {
+    "name": "can",
+    "trans": ["v. 能，会"]
+  },
+  {
+    "name": "can’t",
+    "trans": ["v. 不能，不会（can not的缩写）"]
+  },
+  {
+    "name": "talk",
+    "trans": ["v. 说话；n. 谈话"]
+  },
+  {
+    "name": "swim",
+    "trans": ["v. 游泳；swimming n. 游泳；swimmer n. 游泳者"]
+  },
+  {
+    "name": "walk",
+    "trans": ["v. 走路；n. 步行"]
+  },
+  {
+    "name": "fly",
+    "trans": ["v. 飞；flying n. 飞行"]
+  },
+  {
+    "name": "very",
+    "trans": ["adv. 非常"]
+  },
+  {
+    "name": "high",
+    "trans": ["adj. 高的"]
+  },
+  {
+    "name": "sing",
+    "trans": ["v. 唱歌；singer n. 歌手；singing n. 唱歌"]
+  },
+  {
+    "name": "sheep pen",
+    "trans": ["n. 羊圈"]
+  },
+  {
+    "name": "farmer",
+    "trans": ["n. 农民"]
+  },
+  {
+    "name": "food",
+    "trans": ["n. 食物"]
+  },
+  {
+    "name": "duck",
+    "trans": ["n. 鸭子"]
+  },
+  {
+    "name": "Yes, it can",
+    "trans": ["phr. 是的，它能"]
+  },
+  {
+    "name": "No, it can’t",
+    "trans": ["phr. 不，它不能"]
+  },
+  {
+    "name": "guess",
+    "trans": ["v. 猜；n. 猜测"]
+  },
+  {
+    "name": "kind",
+    "trans": ["adj. 善良的，友好的"]
+  },
+  {
+    "name": "How many …",
+    "trans": ["expr. …多少个"]
+  },
+  {
+    "name": "twenty",
+    "trans": ["num. 二十"]
+  },
+  {
+    "name": "nineteen",
+    "trans": ["num. 十九"]
+  },
+  {
+    "name": "eighteen",
+    "trans": ["num. 十八"]
+  },
+  {
+    "name": "seventeen",
+    "trans": ["num. 十七"]
+  },
+  {
+    "name": "miaow",
+    "trans": ["int. 喵（猫叫声）"]
+  },
+  {
+    "name": "sixteen",
+    "trans": ["num. 十六"]
+  },
+  {
+    "name": "fifteen",
+    "trans": ["num. 十五"]
+  },
+  {
+    "name": "fourteen",
+    "trans": ["num. 十四"]
+  },
+  {
+    "name": "thirteen",
+    "trans": ["num. 十三"]
+  },
+  {
+    "name": "lamb",
+    "trans": ["n. 小羊羔"]
+  },
+  {
+    "name": "of course",
+    "trans": ["expr. 当然"]
+  },
+  {
+    "name": "twelve",
+    "trans": ["num. 十二"]
+  },
+  {
+    "name": "eleven",
+    "trans": ["num. 十一"]
+  },
+  {
+    "name": "buzz",
+    "trans": ["n. & v. 嗡嗡声，发出嗡嗡声"]
+  },
+  {
+    "name": "around",
+    "trans": ["prep. 围绕；adv. 在周围"]
+  },
+  {
+    "name": "pet",
+    "trans": ["n. 宠物"]
+  },
+  {
+    "name": "different",
+    "trans": ["adj. 不同的；difference n. 不同"]
+  },
+  {
+    "name": "beekeeper",
+    "trans": ["n. 养蜂人"]
+  },
+  {
+    "name": "hat",
+    "trans": ["n. 帽子"]
+  },
+  {
+    "name": "suit",
+    "trans": ["n. 套装"]
+  },
+  {
+    "name": "gaucho",
+    "trans": ["n. 加乌乔牧人（南美大草原上的）"]
+  },
+  {
+    "name": "black-faced",
+    "trans": ["adj. 黑脸的"]
+  },
+  {
+    "name": "amazing",
+    "trans": ["adj. 令人惊奇的"]
+  },
+  {
+    "name": "Sure",
+    "trans": ["int. 当然；adj. & adv. 确信的（地）"]
+  },
+  {
+    "name": "start",
+    "trans": ["v. & n. 开始"]
+  },
+  {
+    "name": "finish",
+    "trans": ["v. & n. 完成，结束"]
+  },
+  {
+    "name": "frog",
+    "trans": ["n. 青蛙"]
+  },
+  {
+    "name": "butter",
+    "trans": ["n. 黄油"]
+  },
+  {
+    "name": "strong",
+    "trans": ["adj. 强壮的"]
+  },
+  {
+    "name": "bucket",
+    "trans": ["n. 桶"]
+  },
+  {
+    "name": "milk",
+    "trans": ["n. 牛奶"]
+  },
+  {
+    "name": "these",
+    "trans": ["det. 这些"]
+  },
+  {
+    "name": "help",
+    "trans": ["n. 帮助；v. 帮助"]
+  },
+  {
+    "name": "kick",
+    "trans": ["v. 踢；n. 踢"]
+  },
+  {
+    "name": "Hooray",
+    "trans": ["int. 好哇（表示欢呼）"]
+  },
+  {
+    "name": "think",
+    "trans": ["v. 想，认为"]
+  },
+  {
+    "name": "out",
+    "trans": ["prep. 出去，向外"]
+  },
+  {
+    "name": "clothes",
+    "trans": ["n. 衣服（复数）"]
+  },
+  {
+    "name": "dress",
+    "trans": ["n. 连衣裙"]
+  },
+  {
+    "name": "jeans",
+    "trans": ["n. 牛仔裤（复数）"]
+  },
+  {
+    "name": "shoes",
+    "trans": ["n. 鞋子（复数）；shoe n. 鞋（单数）"]
+  },
+  {
+    "name": "skirt",
+    "trans": ["n. 短裙"]
+  },
+  {
+    "name": "socks",
+    "trans": ["n. 袜子（复数）；sock n. 袜子（单数）"]
+  },
+  {
+    "name": "trousers",
+    "trans": ["n. 裤子（复数）"]
+  },
+  {
+    "name": "T-shirt",
+    "trans": ["n. T恤衫"]
+  },
+  {
+    "name": "Is this …",
+    "trans": ["phr. 这是……吗"]
+  },
+  {
+    "name": "Are these …",
+    "trans": ["phr. 这些是……吗"]
+  },
+  {
+    "name": "Yes, they are",
+    "trans": ["phr. 是的，它们是"]
+  },
+  {
+    "name": "No, they aren’t",
+    "trans": ["phr. 不，它们不是"]
+  },
+  {
+    "name": "scarecrow",
+    "trans": ["n. 稻草人"]
+  },
+  {
+    "name": "happy",
+    "trans": ["adj. 高兴的；happily adv. 高兴地；happiness n. 幸福"]
+  },
+  {
+    "name": "boots",
+    "trans": ["n. 靴子（复数）；boot n. 靴子（单数）"]
+  },
+  {
+    "name": "hat",
+    "trans": ["n. 帽子"]
+  },
+  {
+    "name": "gloves",
+    "trans": ["n. 手套（复数）；glove n. 手套（单数）"]
+  },
+  {
+    "name": "washing line",
+    "trans": ["n. 晾衣绳"]
+  },
+  {
+    "name": "clean",
+    "trans": ["adj. 干净的；v. 打扫；cleaner n. 清洁工"]
+  },
+  {
+    "name": "weather",
+    "trans": ["n. 天气"]
+  },
+  {
+    "name": "dark (blue)",
+    "trans": ["adj. 深色的（蓝色的）"]
+  },
+  {
+    "name": "grey",
+    "trans": ["adj. 灰色的"]
+  },
+  {
+    "name": "shirt",
+    "trans": ["n. 衬衫"]
+  },
+  {
+    "name": "wear",
+    "trans": ["v. 穿，戴"]
+  },
+  {
+    "name": "bin",
+    "trans": ["n. 垃圾桶"]
+  },
+  {
+    "name": "lip",
+    "trans": ["n. 嘴唇"]
+  },
+  {
+    "name": "touch",
+    "trans": ["v. 触摸"]
+  },
+  {
+    "name": "uniform",
+    "trans": ["n. 制服"]
+  },
+  {
+    "name": "tie",
+    "trans": ["n. 领带"]
+  },
+  {
+    "name": "maybe",
+    "trans": ["adv. 也许，可能"]
+  },
+  {
+    "name": "all",
+    "trans": ["det. 所有的"]
+  },
+  {
+    "name": "lucky",
+    "trans": ["adj. 幸运的"]
+  },
+  {
+    "name": "eat",
+    "trans": ["v. 吃"]
+  },
+  {
+    "name": "drink",
+    "trans": ["v. 喝；n. 饮料"]
+  },
+  {
+    "name": "lemon",
+    "trans": ["n. 柠檬"]
+  },
+  {
+    "name": "festival",
+    "trans": ["n. 节日"]
+  },
+  {
+    "name": "banana",
+    "trans": ["n. 香蕉"]
+  },
+  {
+    "name": "bread",
+    "trans": ["n. 面包"]
+  },
+  {
+    "name": "potato",
+    "trans": ["n. 土豆"]
+  },
+  {
+    "name": "rice",
+    "trans": ["n. 米饭"]
+  },
+  {
+    "name": "sweet",
+    "trans": ["n. 糖果；adj. 甜的；sweeten v. 使变甜"]
+  },
+  {
+    "name": "tomato",
+    "trans": ["n. 西红柿"]
+  },
+  {
+    "name": "I like",
+    "trans": ["phr. 我喜欢"]
+  },
+  {
+    "name": "I don’t like",
+    "trans": ["phr. 我不喜欢"]
+  },
+  {
+    "name": "nice",
+    "trans": ["adj. 好的，美味的"]
+  },
+  {
+    "name": "lunch",
+    "trans": ["n. 午饭"]
+  },
+  {
+    "name": "tray",
+    "trans": ["n. 托盘"]
+  },
+  {
+    "name": "horrible",
+    "trans": ["adj. 糟糕的，可怕的"]
+  },
+  {
+    "name": "great",
+    "trans": ["adj. 极好的"]
+  },
+  {
+    "name": "time for",
+    "trans": ["phr. 到……的时间了"]
+  },
+  {
+    "name": "Do you like …",
+    "trans": ["phr. 你喜欢……吗"]
+  },
+  {
+    "name": "Yes, I do",
+    "trans": ["phr. 是的，我喜欢"]
+  },
+  {
+    "name": "No, I don’t",
+    "trans": ["phr. 不，我不喜欢"]
+  },
+  {
+    "name": "hungry",
+    "trans": ["adj. 饿的"]
+  },
+  {
+    "name": "yummy",
+    "trans": ["adj. 美味的"]
+  },
+  {
+    "name": "dot",
+    "trans": ["n. 点"]
+  },
+  {
+    "name": "fox",
+    "trans": ["n. 狐狸"]
+  },
+  {
+    "name": "mop",
+    "trans": ["n. & v. 拖把，用拖把拖"]
+  },
+  {
+    "name": "nod",
+    "trans": ["n. & v. 点头"]
+  },
+  {
+    "name": "floor",
+    "trans": ["n. 地板"]
+  },
+  {
+    "name": "inside",
+    "trans": ["prep. 在……里面"]
+  },
+  {
+    "name": "cake",
+    "trans": ["n. 蛋糕"]
+  },
+  {
+    "name": "meat",
+    "trans": ["n. 肉"]
+  },
+  {
+    "name": "leaf",
+    "trans": ["n. 叶子；leaves n. 叶子（复数）"]
+  },
+  {
+    "name": "celebration",
+    "trans": ["n. 庆祝"]
+  },
+  {
+    "name": "every",
+    "trans": ["det. 每个"]
+  },
+  {
+    "name": "get",
+    "trans": ["v. 得到，变得"]
+  },
+  {
+    "name": "sound",
+    "trans": ["v. 听起来；n. 声音"]
+  },
+  {
+    "name": "dinner",
+    "trans": ["n. 晚饭"]
+  },
+  {
+    "name": "vegetable",
+    "trans": ["n. 蔬菜"]
+  },
+  {
+    "name": "omelette",
+    "trans": ["n. 煎蛋卷"]
+  },
+  {
+    "name": "toilet",
+    "trans": ["n. 厕所"]
+  },
+  {
+    "name": "understand",
+    "trans": ["v. 理解"]
+  },
+  {
+    "name": "repeat",
+    "trans": ["v. 重复"]
+  },
+  {
+    "name": "How do you say …",
+    "trans": ["phr. …怎么说"]
+  },
+  {
+    "name": "say",
+    "trans": ["v. 说"]
+  },
+  {
+    "name": "How do you spell …",
+    "trans": ["phr. …怎么拼写"]
+  },
+  {
+    "name": "spell",
+    "trans": ["v. 拼写；spelling n. 拼写"]
+  },
+  {
+    "name": "What does … mean",
+    "trans": ["phr. …是什么意思"]
+  },
+  {
+    "name": "mean",
+    "trans": ["v. 意思是，意味着"]
+  },
+  {
+    "name": "huge",
+    "trans": ["adj. 巨大的"]
+  },
+  {
+    "name": "owl",
+    "trans": ["n. 猫头鹰"]
+  },
+  {
+    "name": "round",
+    "trans": ["adj. 圆的"]
+  },
+  {
+    "name": "market",
+    "trans": ["n. 市场"]
+  },
+  {
+    "name": "back",
+    "trans": ["n. 背部"]
+  },
+  {
+    "name": "closer",
+    "trans": ["adv. 更近地；close adv. & adj. 近的（地）；closely adv. 紧密地"]
+  },
+  {
+    "name": "beach",
+    "trans": ["n. 海滩"]
+  },
+  {
+    "name": "holiday",
+    "trans": ["n. 假期"]
+  },
+  {
+    "name": "camel",
+    "trans": ["n. 骆驼"]
+  },
+  {
+    "name": "beach ball",
+    "trans": ["n. 沙滩球"]
+  },
+  {
+    "name": "boat",
+    "trans": ["n. 船"]
+  },
+  {
+    "name": "ice cream",
+    "trans": ["n. 冰淇淋"]
+  },
+  {
+    "name": "sand",
+    "trans": ["n. 沙子；sandy adj.  sandy的"]
+  },
+  {
+    "name": "sandcastle",
+    "trans": ["n. 沙堡"]
+  },
+  {
+    "name": "sea",
+    "trans": ["n. 大海"]
+  },
+  {
+    "name": "shell",
+    "trans": ["n. 贝壳"]
+  },
+  {
+    "name": "sun hat",
+    "trans": ["n. 太阳帽"]
+  },
+  {
+    "name": "There isn’t ...",
+    "trans": ["phr. 没有……"]
+  },
+  {
+    "name": "There aren’t …",
+    "trans": ["phr. 没有……"]
+  },
+  {
+    "name": "mask",
+    "trans": ["n. 面罩"]
+  },
+  {
+    "name": "breathe",
+    "trans": ["v. 呼吸"]
+  }
 ]
